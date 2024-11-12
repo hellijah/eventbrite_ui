@@ -8,31 +8,31 @@ Le projet est organisé avec une structure de dossiers qui sépare chaque compos
 
 ### Arborescence
 
-eventbrite_UI
-├── components
-│   ├── navbar.html
-│   ├── footer.html
-│   ├── authentication_form.html
-│   ├── banner.html
-│   ├── card_event.html
-│   └── comment.html
-├── css
-│   ├── quartz_bootswatch.css
-│   └── style.css
-└── index.html
+eventbrite_UI\
+├── components\
+│   ├── navbar.html\
+│   ├── footer.html\
+│   ├── authentication_form.html\
+│   ├── banner.html\
+│   ├── card_event.html\
+│   └── comment.html\
+├── css\
+│   ├── quartz_bootswatch.css\
+│   └── style.css\
+└── index.html\
 
 ## Installation
 
 1. Clone le repository dans votre répertoire local.
 
     ```bash
-    git clone <url_du_repository>
+    git clone https://github.com/hellijah/eventbrite_ui.git
     ```
 
 2. Navigue dans le dossier du projet.
 
     ```bash
-    cd eventbrite_project
+    cd eventbrite_ui
     ```
 
 3. Ouvre le fichier `index.html` dans un navigateur pour explorer les différents composants.
