@@ -1,0 +1,16 @@
+/* Exemple de styles personnalisés */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+  background-color: #444 !important; /* Couleur personnalisée */
+}
+
+.card {
+  margin: 1rem 0;
+}
+
+footer {
+  font-size: 0.9rem;
+}
