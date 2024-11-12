@@ -8,8 +8,7 @@ Le projet est organisé avec une structure de dossiers qui sépare chaque compos
 
 ### Arborescence
 
-eventbrite_project/ ├── components/ # Dossier contenant les différents composants HTML │ ├── navbar.html # Navbar │ ├── footer.html # Footer │ ├── authentication_form.html # Formulaire d'authentification │ ├── banner.html # Bannière │ ├── card_event.html # Carte d'événement │ └── comment.html # Commentaire ├── css/ # Dossier CSS │ ├── quartz_bootswatch.css # Fichier CSS du thème Quartz de Bootswatch │ └── style.css # Styles personnalisés └── index.html # Page d'accueil liant tous les composants
-
+eventbrite_project/ ├── components/ │ ├── navbar.html │ ├── footer.html │ ├── authentication_form.html │ ├── banner.html │ ├── card_event.html │ └── comment.html ├── css/ │ ├── quartz_bootswatch.css │ └── style.css └── index.html
 
 ## Installation
 
